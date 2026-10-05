@@ -1,0 +1,11 @@
+#h1{
+    background-color: gray;
+    color: yellow !important;
+    width: 500px;
+    height: auto;
+    padding: 20px;
+}
+
+.h1{
+    color: aqua;
+}

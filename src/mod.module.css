@@ -1,0 +1,17 @@
+.sam{
+    width: 200px;
+    height: auto;
+    background-color: black;
+    color: white;
+    padding: 30px;
+}
+
+
+#john{
+    width: 220px;
+    height: 200px;
+    background-color: blueviolet;
+    color: white;
+    display: flex;
+    align-items: center;
+}
