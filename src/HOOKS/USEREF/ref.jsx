@@ -1,5 +1,5 @@
 import { useRef, useState } from "react"
-import Hero from "/React/Demo/src/assets/hero.png"
+// import Hero from "./assets/hero.mp4"
 
 export default function Ref(){
 
@@ -28,7 +28,7 @@ export default function Ref(){
             inputref.current.focus()
         }}>focus inut</button>
 
-        <img src={Hero} alt="" />
+        {/* <img src={Hero} alt="" /> */}
         <video src="" ref={videoref}></video>
         <button onClick={()=>videoref.current.play()}>play</button>
         </>
